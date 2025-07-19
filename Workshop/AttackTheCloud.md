@@ -2,6 +2,8 @@
 
 Hands-on AWS cloud security labs using LocalStack and AWS CLI.
 
+**Workshop Repository:**  [AttackTheCloud-Workshop](https://github.com/QiaoNPC/FSECSS-AttackTheCloud-Workshop.git)
+
 
 ## Lab 1: Insecure S3 Bucket
 
