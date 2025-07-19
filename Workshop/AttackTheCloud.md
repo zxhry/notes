@@ -9,18 +9,14 @@ Hands-on AWS cloud security labs using LocalStack and AWS CLI.
 
 <pre>
 aws --endpoint-url=http://localhost:4566/ s3 ls --no-sign-request
-
 aws --endpoint-url=http://localhost:4566/ s3 ls s3://fsecss-bucket/ --no-sign-request
-
 aws --endpoint-url=http://localhost:4566/ s3 cp s3://fsecss-bucket/flag.txt flag.txt --no-sign-request </pre>
 
 ## Lab 2: S3 Bucket Versioning
 
 <pre>
 s3api get-bucket-versioning
-  
 s3api list-object-versions
-
 s3api get-object </pre>
 
 ## Lab 3: Secrets Manager
