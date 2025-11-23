@@ -1,3 +1,5 @@
 CTF Writeup
 
 IGOH25 - https://docs.google.com/document/d/1JssksyvBXUP46vas-Ebu7JGetl-JUF8-4jfpIH7S6Gk/edit?usp=sharing
+
+Other's writeups: https://myos-esc.gitbook.io/myos-esc./
